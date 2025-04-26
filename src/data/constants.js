@@ -221,6 +221,26 @@ export const education = [
 export const projects = [
   {
     id: 0,
+    title: "Email Phishing Simulation",
+    date: "Apr 2025",
+    description:
+      "Email phishing simulation is a cybersecurity training exercise where organizations send fake, but realistic, phishing emails to their own employees. The purpose is not to hack them, but to test and improve their ability to recognize and avoid phishing attacks in a safe environment.",
+    image:
+      "https://txmnjrdabgpvnjfoovpg.supabase.co/storage/v1/object/public/portfolio//email.jpg",
+    tags: [
+      "Cyber Security",
+      "Phishing",
+      "Hacking",
+      "Simulation",
+      "Email",
+      "Kali Linux",
+      "Gophish",
+    ],
+    category: "Projects",
+    github: "https://github.com/Pranav-V-20/Email_Phishing_Simulation.git",
+  },
+  {
+    id: 0,
     title: "Remote Access Exploitation",
     date: "Mar 2025",
     description:
